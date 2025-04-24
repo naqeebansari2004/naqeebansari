@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/naqeeb-ansari" target="blank"><img src="https://img.shields.io/twitter/follow/naqeeb-ansari?logo=twitter&style=for-the-badge" alt="naqeeb-ansari" /></a> </p>
 
-- 🌱 I’m currently learning **PHP,JavaScript,JAVA-Advance,Android**
+- 🌱 I’m currently learning **PHP,JAVA-Advance,Android**
 
 - 💬 Ask me about **C,Python,Java,HTML,CSS,Bootstrap,DBMS,DSA**
 
